@@ -404,6 +404,11 @@ main{
     cursor: pointer;
 }
 
+.hide{
+    display: none;
+    transition: 1s;
+}
+
 .active{
     background-color: #000;
 }
