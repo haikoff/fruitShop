@@ -150,6 +150,23 @@ main{
     font-weight: 300;
     line-height: normal;
     cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.dostavkaBtn button{
+    color: #FFF;
+    font-family: Nunito;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    background: #1DA92B;
+    border: none;
+    cursor: pointer;
 }
 
 .whyWe{
@@ -557,6 +574,7 @@ main{
     font-style: normal;
     font-weight: 300;
     line-height: normal;
+    cursor: pointer;
 }
 
 .zakaz p{
